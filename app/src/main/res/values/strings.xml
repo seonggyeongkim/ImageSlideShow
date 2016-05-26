@@ -2,4 +2,5 @@
     <string name="app_name">ImageSlideShow</string>
     <string name="but_text_start">이미지 쇼 시작</string>
     <string name="but_text_spot">이미지 쇼 정지</string>
+    <string name="text_second">초</string>
 </resources>
