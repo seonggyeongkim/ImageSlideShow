@@ -32,7 +32,7 @@
             android:id="@+id/edit_time"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:inputType="numberDecimal"/> <!--숫자만 입력할 수 있게 설정 numberDecimal : 10진수햐-->
+            android:inputType="numberDecimal"/> <!--숫자만 입력할 수 있게 설정 numberDecimal : 10진수 표현-->
 
         <TextView
             android:layout_width="wrap_content"
