@@ -38,6 +38,16 @@
             android:layout_height="match_parent"
             android:src="@drawable/free"
             />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/fish1"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/fish2"
+            />
     </ViewFlipper>
 
 
